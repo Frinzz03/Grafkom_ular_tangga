@@ -41,7 +41,8 @@ Pastikan Anda telah menginstal:
 - Proyek ini bersifat edukatif dan cocok untuk belajar dasar OpenGL + logika game sederhana
 
 ## 👨‍💻 Kontributor
-- Nama Anda (Developer)
+- Ahmad Dhiyauddin dhyoss
+-
 - 
 
 
